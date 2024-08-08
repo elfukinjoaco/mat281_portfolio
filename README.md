@@ -11,7 +11,7 @@
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
 
 ## Portafolio Personal
-
+Joaquín Ramírez.
 ### Setup
 
 Las instrucciones de uso se encuentran en el siguiente [archivo](docs/setup.md). 
